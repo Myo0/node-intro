@@ -1,0 +1,23 @@
+{
+  "name": "intro",
+  "version": "1.0.0",
+  "description": "its a test",
+  "keywords": [
+    "test"
+  ],
+  "homepage": "https://github.com/Myo0/node-intro#readme",
+  "bugs": {
+    "url": "https://github.com/Myo0/node-intro/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Myo0/node-intro.git"
+  },
+  "license": "ISC",
+  "author": "Corbin Brooks",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
